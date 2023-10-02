@@ -58,7 +58,7 @@
         .button {
             display: inline-block;
             padding: 12px 24px;
-            background-color: #69a5ff; /* Rosa escuro */
+            background-color: #0d2345; /* Rosa escuro */
             color: #fff;
             text-decoration: none;
             font-weight: bold;
