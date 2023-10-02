@@ -79,12 +79,10 @@
     <div class="container" id="conteudo-sobre" style="display: none;">
         <h2>Conteúdos</h2>
         <p>Aqui você encontrará informações sobre meus projetos e trabalhos.</p>
-        <a href="#" class="button" id="btn-saiba-mais-sobre">Saiba Mais</a>
     </div>
     <div class="container" id="conteudo-servicos" style="display: none;">
         <h2>Autoavaliação</h2>
         <p>Confira minha autoavaliação e meu progresso.</p>
-        <a href="#" class="button" id="btn-saiba-mais-servicos">Saiba Mais</a>
     </div>
     <script>
         // JavaScript para controlar a exibição das seções
