@@ -7,20 +7,20 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #ffe6e6; /* Rosa claro */
+            background-color: #b3d7ff; 
             margin: 0;
             padding: 0;
         }
 
         header {
-            background-color: #ff6699; /* Rosa escuro */
+            background-color: #6579ad; 
             color: #fff;
             padding: 20px 0;
             text-align: center;
         }
 
         nav {
-            background-color: #ff99cc; /* Rosa médio */
+            background-color: #7795e0; /* Rosa médio */
             color: #fff;
             text-align: center;
             padding: 10px 0;
@@ -58,7 +58,7 @@
         .button {
             display: inline-block;
             padding: 12px 24px;
-            background-color: #ff6699; /* Rosa escuro */
+            background-color: #1b2640; /* Rosa escuro */
             color: #fff;
             text-decoration: none;
             font-weight: bold;
@@ -67,7 +67,7 @@
         }
 
         .button:hover {
-            background-color: #ff99cc; /* Rosa médio */
+            background-color: #1b2640; /* Rosa médio */
         }
     </style>
 </head>
