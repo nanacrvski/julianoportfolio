@@ -91,7 +91,8 @@
         const btnSobre = document.getElementById('btn-sobre');
         const btnServicos = document.getElementById('btn-servicos');
         const conteudoInicio = document.getElementById('conteudo-inicio');
-        const conteudoSobre = document.getElementById('conteudo-sobre');
+         const conteudoSobre = document.getElementById('conteudo-sobre');
+        const conteudoSobre = document.getElementById('conteudo-servicos');
         btnInicio.addEventListener('click', () => {
             conteudoInicio.style.display = 'block';
             conteudoSobre.style.display = 'none';
@@ -105,12 +106,6 @@
             conteudoContato.style.display = 'none';
         });
         btnServicos.addEventListener('click', () => {
-            conteudoInicio.style.display = 'none';
-            conteudoSobre.style.display = 'none';
-            conteudoServicos.style.display = 'block';
-            conteudoContato.style.display = 'none';
-        });
-      btnSobre.addEventListener('click', () => {
             conteudoInicio.style.display = 'none';
             conteudoSobre.style.display = 'none';
             conteudoServicos.style.display = 'block';
