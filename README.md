@@ -7,20 +7,20 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #ffe6e6; /* Rosa claro */
+            background-color: #bdd8ff; /* Rosa claro */
             margin: 0;
             padding: 0;
         }
 
         header {
-            background-color: #ff6699; /* Rosa escuro */
+            background-color: #7292c2; /* Rosa escuro */
             color: #fff;
             padding: 20px 0;
             text-align: center;
         }
 
         nav {
-            background-color: #ff99cc; /* Rosa médio */
+            background-color: #9faec4; /* Rosa médio */
             color: #fff;
             text-align: center;
             padding: 10px 0;
@@ -45,7 +45,7 @@
 
         h1 {
             font-size: 36px;
-            color: #ff6699; /* Rosa escuro */
+            color: #69a5ff; /* Rosa escuro */
             margin-bottom: 20px;
         }
 
@@ -58,7 +58,7 @@
         .button {
             display: inline-block;
             padding: 12px 24px;
-            background-color: #ff6699; /* Rosa escuro */
+            background-color: #69a5ff; /* Rosa escuro */
             color: #fff;
             text-decoration: none;
             font-weight: bold;
@@ -67,7 +67,7 @@
         }
 
         .button:hover {
-            background-color: #ff99cc; /* Rosa médio */
+            background-color: #bdd7ff; /* Rosa médio */
         }
     </style>
 </head>
