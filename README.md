@@ -110,6 +110,12 @@
             conteudoServicos.style.display = 'block';
             conteudoContato.style.display = 'none';
         });
+      btnSobre.addEventListener('click', () => {
+            conteudoInicio.style.display = 'none';
+            conteudoSobre.style.display = 'none';
+            conteudoServicos.style.display = 'block';
+            conteudoContato.style.display = 'none';
+        });
     </script>
 </body>
 </html>
