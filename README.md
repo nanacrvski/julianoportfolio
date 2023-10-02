@@ -94,18 +94,6 @@
         <p>Confira minha autoavaliação e meu progresso.</p>
         <a href="#" class="button" id="btn-saiba-mais-servicos">Saiba Mais</a>
     </div>
-    <div class="container" id="conteudo-contato" style="display: none;">
-        <h2>Contato</h2>
-        <p>Entre em contato comigo através do formulário abaixo:</p>
-        <form>
-            <label for="nome">Nome:</label>
-            <input type="text" id="nome" name="nome" required><br><br>
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required><br><br>
-            <textarea id="mensagem" name="mensagem" rows="4" cols="50" placeholder="Digite sua mensagem aqui..." required></textarea><br><br>
-            <input type="submit" value="Enviar">
-        </form>
-    </div>
 
     <script>
         // JavaScript para controlar a exibição das seções
