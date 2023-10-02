@@ -86,7 +86,9 @@
     </div>
     <div class="container" id="conteudo-sobre" style="display: none;">
         <h2>Conteúdos</h2>
-        <p>Aqui você encontrará informações sobre meus projetos e trabalhos.</p>
+        <p> -Funções exponenciais 
+            -Logaritmos
+            -Funções modulares .</p>
         <a href="#" class="button" id="btn-saiba-mais-sobre">Saiba Mais</a>
     </div>
     <div class="container" id="conteudo-servicos" style="display: none;">
