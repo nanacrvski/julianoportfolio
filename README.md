@@ -86,15 +86,13 @@
     </div>
     <div class="container" id="conteudo-sobre" style="display: none;">
         <h2>Conteúdos</h2>
-        <p> -Funções exponenciais 
-            -Logaritmos
-            -Funções modulares .</p>
-       
+        <p> Funções exponenciais; 
+            Logaritmos;
+            Funções modulares; .</p>    
     </div>
     <div class="container" id="conteudo-servicos" style="display: none;">
         <h2>Autoavaliação</h2>
-        <p>Confira minha autoavaliação e meu progresso.</p>
-       
+        <p>Confira minha autoavaliação e meu progresso.</p>  
     </div>
 
     <script>
