@@ -94,8 +94,6 @@
         const btnContato = document.getElementById('btn-contato');
         const conteudoInicio = document.getElementById('conteudo-inicio');
         const conteudoSobre = document.getElementById('conteudo-sobre');
-        const conteudoServicos = document.getElementById('conteudo-servicos');
-        const conteudoContato = document.getElementById('conteudo-contato');
         btnInicio.addEventListener('click', () => {
             conteudoInicio.style.display = 'block';
             conteudoSobre.style.display = 'none';
@@ -113,12 +111,6 @@
             conteudoSobre.style.display = 'none';
             conteudoServicos.style.display = 'block';
             conteudoContato.style.display = 'none';
-        });
-        btnContato.addEventListener('click', () => {
-            conteudoInicio.style.display = 'none';
-            conteudoSobre.style.display = 'none';
-            conteudoServicos.style.display = 'none';
-            conteudoContato.style.display = 'block';
         });
     </script>
 </body>
