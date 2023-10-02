@@ -87,11 +87,9 @@
         <p>Confira minha autoavaliação e meu progresso.</p>  
     </div>
     <script>
-        // JavaScript para controlar a exibição das seções
         const btnInicio = document.getElementById('btn-inicio');
         const btnSobre = document.getElementById('btn-sobre');
         const btnServicos = document.getElementById('btn-servicos');
-        const btnContato = document.getElementById('btn-contato');
         const conteudoInicio = document.getElementById('conteudo-inicio');
         const conteudoSobre = document.getElementById('conteudo-sobre');
         btnInicio.addEventListener('click', () => {
