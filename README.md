@@ -40,7 +40,7 @@
         }
         h1 {
             font-size: 36px;
-            color: #ff6699; /* Rosa escuro */
+            color: #1b213d; /* Rosa escuro */
             margin-bottom: 20px;
         }
         p {
